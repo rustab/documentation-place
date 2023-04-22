@@ -1,0 +1,32 @@
+Notes on API's for beginners: https://www.youtube.com/watch?v=GZvSYJDk-us
+
+
+Interfaces abstract away the implementation. "We don't need to know how it works, we just need to know what we're allowed to change, or see"
+
+GUI (Graphical User Interface): Is made for the user of the application
+API (Application Programming Interface): Is made for the application programmer to use and extend in their applications
+
+One way to think about it: API is a contract of sorts. It defines how its expected to be used and what you can expect to recieve by using it. 
+
+They save you from having to create everything by yourself!
+
+
+There exists local API's and remote API's. 
+REST (REpresentational State Transfer) is a standard for remote API's. When API's are written in the style of REST and follow/embrace the REST rules, the API is said to be "RESTful".
+
+Resource function: CRUD (Creating Reading Updating and Deleting)
+
+HTTP Verbs: 		CRUD:
+----------			-----
+GET 				Read
+
+POST				Create
+
+PUT					Update
+PATCH
+
+DELETE				Delete
+
+
+*** ACRONYMS ***
+SDK: SOFTWARE DEVELOPMENT KIT

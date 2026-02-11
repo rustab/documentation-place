@@ -1,6 +1,5 @@
 Notes on API's for beginners: https://www.youtube.com/watch?v=GZvSYJDk-us
 
-
 Interfaces abstract away the implementation. "We don't need to know how it works, we just need to know what we're allowed to change, or see"
 
 GUI (Graphical User Interface): Is made for the user of the application
